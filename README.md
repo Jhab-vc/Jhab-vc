@@ -1,5 +1,5 @@
-# Hola, soy Jhab 💻
-Desarrolladora en formación, aprendiendo un poco cada día.
+# Hola, que tal 💻
+Soy Jhab, desarrolladora en formación, aprendiendo un poco cada día.
 ---
 ### 🛠️ Tecnologías
 **Frontend** (en aprendizaje)
