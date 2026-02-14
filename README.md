@@ -17,7 +17,4 @@ Desarrolladora en formación, aprendiendo un poco cada día.
 - 📚 Estudiando SQL para bases de datos
 - 🔨 Construyendo mis primeros proyectos personales
 ---
-### 📫 Contacto
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
----
 *✨ "Aprendiendo, practicando, mejorando." ✨*
