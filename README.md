@@ -15,6 +15,7 @@ Soy Jhab, desarrolladora en formación, aprendiendo un poco cada día.
 
 **Base de datos** (iniciando)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 ---
 ### 📌 Actualmente
 - 📖 Aprendiendo sobre Desarrollo Web y profundizando en Python
