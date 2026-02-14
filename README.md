@@ -13,7 +13,7 @@ Desarrolladora en formación, aprendiendo un poco cada día.
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ---
 ### 📌 Actualmente
-- 📖 Aprendiendo JavaScript y profundizando en Python
+- 📖 Aprendiendo sobre Desarrollo Web y profundizando en Python
 - 📚 Estudiando SQL para bases de datos
 - 🔨 Construyendo mis primeros proyectos personales
 ---
