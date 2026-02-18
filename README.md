@@ -1,4 +1,4 @@
-# Hola, que tal 💻
+# Hola 💻
 Soy Jhab, desarrolladora en formación, aprendiendo un poco cada día.
 ---
 ### 🛠️ Tecnologías
