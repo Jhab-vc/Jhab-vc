@@ -2,8 +2,8 @@
 Soy Jhab, desarrolladora en formación, aprendiendo un poco cada día.
 
 🌐 **Idiomas / Languages:**
-- 🇪🇸 [Español](README.md)
-- 🇺🇸 [English](README.en.md)
+- [Español](README.md)
+- [English](README.en.md)
 
 ---
 ### 🛠️ Tecnologías
@@ -25,4 +25,4 @@ Soy Jhab, desarrolladora en formación, aprendiendo un poco cada día.
 - 📚 Estudiando SQL para bases de datos
 - 🔨 Construyendo mis primeros proyectos personales
 ---
-*✨ "Aprendiendo, practicando, mejorando." ✨*
+*"Aprendiendo, practicando, mejorando."*
