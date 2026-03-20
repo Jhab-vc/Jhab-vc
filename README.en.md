@@ -25,4 +25,4 @@ I'm Jhab, a developer in training, learning a little every day.
 - 📚 Studying SQL for databases
 - 🔨 Building my first personal projects
 ---
-*"Learning, practicing, improving." ✨*
+*"Learning, practicing, improving."*
