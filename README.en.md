@@ -2,8 +2,8 @@
 I'm Jhab, a developer in training, learning a little every day.
 
 🌐 **Languages / Idiomas:**
-- 🇺🇸 [English](README.en.md)
-- 🇪🇸 [Español](README.md)
+- [English](README.en.md)
+- [Español](README.md)
 
 ---
 ### 🛠️ Technologies
