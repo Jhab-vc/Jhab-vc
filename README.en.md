@@ -6,7 +6,7 @@ I'm Jhab, a developer in training, learning a little every day.
 - [Español](README.md)
 
 ---
-### 🛠️ Technologies
+### Technologies
 **Frontend** (learning)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -20,7 +20,7 @@ I'm Jhab, a developer in training, learning a little every day.
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-### 📌 Currently
+### Currently
 - 📖 Learning Web Development and diving deeper into Python
 - 📚 Studying SQL for databases
 - 🔨 Building my first personal projects
