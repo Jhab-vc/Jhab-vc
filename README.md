@@ -6,7 +6,7 @@ Soy Jhab, desarrolladora en formación, aprendiendo un poco cada día.
 - [English](README.en.md)
 
 ---
-### 🛠️ Tecnologías
+### Tecnologías
 **Frontend** (en aprendizaje)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -20,7 +20,7 @@ Soy Jhab, desarrolladora en formación, aprendiendo un poco cada día.
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-### 📌 Actualmente
+### Actualmente
 - 📖 Aprendiendo sobre Desarrollo Web y profundizando en Python
 - 📚 Estudiando SQL para bases de datos
 - 🔨 Construyendo mis primeros proyectos personales
